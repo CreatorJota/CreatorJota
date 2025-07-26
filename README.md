@@ -1,6 +1,7 @@
 ### Olá! Eu sou o João Victor 👋
 - 🔭 Estudo na Universidade Federal Fluminense
-- 🌱 Eu estou estudando Java
+- 🌱 Estudando Java
+  
 <div>
     <a href="https://github.com/CreatorJota">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CreatorJota&show_icons=true&theme=chartreuse-dark&include_all_comits=true&count_private=true">
